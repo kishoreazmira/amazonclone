@@ -1,0 +1,2 @@
+# amazonclone
+cloning amazon website 
